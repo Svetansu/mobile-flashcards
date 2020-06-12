@@ -44,5 +44,5 @@ Some important features of the project include:
 
 To get started developing right away:
 
-* install all project dependencies with `npm install`/`yarn install`
-* start the development server with `npm start`/`yarn start`
+* install all project dependencies with `npm install`/`yarn install`/`expo install`
+* start the development server with `npm start`/`yarn start`/`expo start`
