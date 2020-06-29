@@ -4,7 +4,7 @@ This project is my second submission for the Mobile Flashcards react-native appl
 
 ## About...
 
-Mobile flashcards is is quiz-based application which allows users to test their knowledge about a particular field, or deck, in the app. The user can answer quizzes, create new ones, and retry a quiz if they're unhappy with their score. The project is built using the foundations of react-native, along with redux and react-navigation, among others.
+Mobile flashcards is a quiz-based application which allows users to test their knowledge about a particular field, or deck, in the app. The user can answer quizzes, create new ones, and retry a quiz if they're unhappy with their score. The project is built using the foundations of react-native, along with redux and react-navigation, among others.
 
 The application was made in the Expo Snack environment. It was tested on the iOS, web and android simulators available in Expo Snack.
 
